@@ -13,7 +13,12 @@ _________________________
 ## Trello board:
 https://trello.com/b/jycDx8bE/ossu-cs
 
+_________________________
 
+## Working on:
+
+How to Code: Complex Data:
+https://courses.edx.org/courses/course-v1:UBCx+HtC2x+2T2017/course/
 
 _________________________
 
@@ -26,6 +31,5 @@ https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10
 https://courses.edx.org/courses/course-v1:UBCx+HtC1x+2T2017/course/
 
 
-3. How to Code: Complex Data:
-https://courses.edx.org/courses/course-v1:UBCx+HtC2x+2T2017/course/
+
 _________________________
